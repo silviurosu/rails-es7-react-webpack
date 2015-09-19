@@ -1,0 +1,26 @@
+{
+  "name": "React-ES7",
+  "version": "0.0.1",
+  "homepage": "https://github.com/silviurosu/rails-es7-react-webpack",
+  "authors": [
+    "Silviu Rosu <silviu.rosu@gmail.com>"
+  ],
+  "description": "React ES7 Webpack",
+  "main": "index.html",
+  "moduleType": [
+    "ruby"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "React-ES7",
+  "version": "0.0.1",
+  "author": "Silviu Rosu <silviu.rosu@gmail.com>",
+  "description": "React Es7 Webpack",
+  "contributors": [
+    "Silviu Rosu <silviu.rosu@gmail.com>"
+  ],
+  "scripts": {
+    "postinstall": "$(npm bin)/bower install"
+  },
+  "analyze": false,
+  "dependencies": {
+    "baconjs": "^0.7.71",
+    "moment": "^2.10.6",
+    "ramda": "^0.17.1",
+    "react": "^0.13.3",
+    "react-bootstrap": "^0.25.2",
+    "react-fa": "^3.2.0",
+    "react-router": "^0.13.3",
+    "toastr": "^2.1.2",
+    "webpack": "^1.11.0"
+  },
+  "devDependencies": {
+    "bower": "^1.5.2",
+    "babel-core": "^5.8.22",
+    "babel-eslint": "^4.0.10",
+    "babel-loader": "^5.3.2"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true
+    }
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "homepage": "https://github.com/silviurosu/rails-es7-react-webpack",
+  "main": "gulpfile.js",
+  "license": "ISC",
+
+  "directories": {
+    "doc": "doc"
+  },
+  "keywords": []
+}
